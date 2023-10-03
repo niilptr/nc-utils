@@ -1,2 +1,2 @@
 #!/bin/bash
-namechaind q alias list-aliases
+ncd q alias list-aliases
